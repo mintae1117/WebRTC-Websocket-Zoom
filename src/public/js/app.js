@@ -1,1 +1,1 @@
-alert("hi");
+alert("Welcome to my Zoom Clone!");
