@@ -15,4 +15,4 @@ socket.addEventListener("close", () => {
 
 setTimeout(() => {
     socket.send("hello from the browser!");
-}, 10000);
+}, 5000);
